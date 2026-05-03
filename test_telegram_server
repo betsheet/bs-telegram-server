@@ -1,0 +1,246 @@
+2026-04-18 10:30:51.828 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:30:52.038 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:30:52.039 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:30:52.213 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 30 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:30:56.899 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-18 10:31:50.141 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:31:50.339 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:31:50.339 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:31:50.513 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 30 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:35:39.230 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:35:39.434 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:35:39.434 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:35:39.614 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 30 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:37:41.982 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:37:42.189 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:37:42.189 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:37:42.369 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 30 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:38:56.198 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:38:56.534 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:38:56.534 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:38:56.706 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 30 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:51:35.052 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:51:35.302 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:51:35.302 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:51:35.474 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:53:30.038 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:53:30.299 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:53:30.300 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:53:30.419 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 10:54:12.862 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 10:54:13.064 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 10:54:13.064 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 10:54:13.199 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 11:03:52.416 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 11:03:52.743 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 11:03:52.743 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 11:03:53.025 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 11:04:22.487 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 11:04:22.487 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 11:04:22.828 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 11:14:40.681 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 11:14:40.681 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 11:14:40.862 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 12:06:57.303 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 12:06:57.517 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:06:57.517 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 12:06:57.637 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 12:07:31.370 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:07:31.370 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 12:07:31.548 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 12:07:47.041 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:07:47.041 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 12:07:47.183 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 12:10:56.171 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 12:10:56.469 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:10:56.470 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 12:10:56.587 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 12:12:22.713 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:12:22.713 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 12:12:22.888 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 12:12:34.895 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:12:34.895 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 12:12:35.017 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 12:35:22.660 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 12:35:22.963 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:35:22.964 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 12:35:23.133 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 12:36:16.044 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:36:16.044 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 12:36:16.337 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 12:36:29.182 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:36:29.182 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 12:36:29.345 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 12:49:41.542 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 12:49:41.762 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:49:41.762 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 12:49:41.941 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 12:50:24.908 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:50:24.908 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 12:50:25.265 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 12:50:38.357 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 12:50:38.357 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 12:50:38.541 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 13:16:39.879 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:16:39.879 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Inmamolero Basic - Solopicks' found with username: None
+2026-04-18 13:16:40.051 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 39 message(s) from 'Inmamolero Basic - Solopicks'
+2026-04-18 13:18:52.210 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 13:18:52.485 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:18:52.486 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 13:18:52.606 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 13:19:13.722 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:19:13.722 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 13:19:13.977 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 13:19:20.699 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:19:20.699 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 13:19:20.875 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 13:19:50.537 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:19:50.537 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Awer - Solopicks' found with username: None
+2026-04-18 13:19:50.773 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Awer - Solopicks'
+2026-04-18 13:20:52.450 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:20:52.451 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Borja tips - Solopicks' found with username: None
+2026-04-18 13:20:52.634 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Borja tips - Solopicks'
+2026-04-18 13:24:32.222 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-18 13:24:32.473 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:24:32.474 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-18 13:24:32.587 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-18 13:24:59.212 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:24:59.213 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-18 13:24:59.625 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 14 message(s) from 'Irish - Solopicks'
+2026-04-18 13:25:12.331 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:25:12.332 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Blade - Solopicks' found with username: None
+2026-04-18 13:25:12.456 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Blade - Solopicks'
+2026-04-18 13:25:34.377 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:25:34.377 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Borja tips - Solopicks' found with username: None
+2026-04-18 13:25:34.517 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Borja tips - Solopicks'
+2026-04-18 13:26:23.844 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:26:23.844 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Fusion Blog - Solopicks' found with username: None
+2026-04-18 13:26:24.024 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Fusion Blog - Solopicks'
+2026-04-18 13:31:03.631 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:31:03.631 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Einstein - Solopicks' found with username: None
+2026-04-18 13:31:03.911 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 37 message(s) from 'Einstein - Solopicks'
+2026-04-18 13:33:30.722 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:33:30.722 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-18 13:33:30.828 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-18 13:35:50.296 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:35:50.296 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Evente - Solopicks' found with username: None
+2026-04-18 13:35:50.597 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Evente - Solopicks'
+2026-04-18 13:36:27.987 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:36:27.987 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-18 13:36:28.181 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-18 13:38:34.585 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-18 13:38:34.586 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Grimacewood - Solopicks' found with username: None
+2026-04-18 13:38:34.698 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Grimacewood - Solopicks'
+2026-04-19 07:59:55.046 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 07:59:55.388 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 07:59:55.389 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Cristiano - Solopicks' found with username: None
+2026-04-19 07:59:55.474 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Cristiano - Solopicks'
+2026-04-19 08:01:00.424 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:01:00.551 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:01:00.552 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Cristiano - Solopicks' found with username: None
+2026-04-19 08:01:00.633 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Cristiano - Solopicks'
+2026-04-19 08:01:41.123 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-19 08:02:28.955 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:02:29.125 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:02:29.125 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Einstein - Solopicks' found with username: None
+2026-04-19 08:02:29.247 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 37 message(s) from 'Einstein - Solopicks'
+2026-04-19 08:11:09.126 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:11:09.338 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:11:09.338 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Einstein - Solopicks' found with username: None
+2026-04-19 08:11:09.693 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 37 message(s) from 'Einstein - Solopicks'
+2026-04-19 08:11:15.975 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-19 08:11:55.265 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:11:55.466 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:11:55.466 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 08:11:55.577 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 08:13:19.402 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:13:19.545 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:13:19.545 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 08:13:19.659 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 08:14:10.081 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:14:10.215 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:14:10.215 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 08:14:10.328 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 08:19:32.780 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:19:32.926 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:19:32.926 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 08:19:33.057 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 08:37:12.796 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 08:37:12.974 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 08:37:12.975 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 08:37:13.078 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 09:07:41.724 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 09:07:41.928 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 09:07:41.928 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 09:07:42.043 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 09:14:18.671 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 09:14:18.832 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 09:14:18.832 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 09:14:18.958 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 09:46:22.132 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-19 09:46:22.565 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-19 09:46:22.566 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-19 09:46:22.674 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-19 10:09:03.783 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-20 05:40:35.294 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 05:40:35.505 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 05:40:35.506 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-20 05:40:35.650 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-20 05:53:40.482 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 05:53:40.719 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 05:53:40.719 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-20 05:53:40.817 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-20 06:06:10.018 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:06:10.197 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:06:10.198 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-20 06:06:10.328 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-20 06:18:51.528 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-20 06:18:55.721 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:18:55.897 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:18:55.897 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Mallic - Solopicks' found with username: None
+2026-04-20 06:18:56.042 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Mallic - Solopicks'
+2026-04-20 06:19:32.450 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-20 06:23:36.908 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:23:37.087 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:23:37.087 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:23:37.164 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:24:47.248 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-20 06:24:53.832 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:24:53.989 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:24:53.989 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:24:54.076 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:28:25.636 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:28:25.807 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:28:25.807 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:28:25.914 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:32:17.791 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:32:17.964 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:32:17.964 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:32:18.095 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:33:17.452 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:33:17.586 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:33:17.586 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:33:17.661 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:36:39.487 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:36:39.626 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:36:39.626 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:36:39.696 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:38:09.348 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-20 06:38:09.504 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-20 06:38:09.505 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-20 06:38:09.660 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-20 06:38:17.093 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-21 07:37:44.767 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-21 07:37:44.915 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-21 07:37:44.915 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Turkbasket - Solopicks' found with username: None
+2026-04-21 07:37:45.002 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Turkbasket - Solopicks'
+2026-04-21 07:38:47.116 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-21 07:38:58.621 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-21 07:38:58.956 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-21 07:38:58.957 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Tsonga7 - Solopicks' found with username: None
+2026-04-21 07:38:59.076 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 50 message(s) from 'Tsonga7 - Solopicks'
+2026-04-21 07:39:29.435 | INFO     | bsutils.logger.bslogger:info:23 - Client with id 'None' disconnected from Telegram
+2026-04-21 07:39:38.461 | INFO     | bsutils.logger.bslogger:info:23 - Client successfully connected to Telegram
+2026-04-21 07:39:38.655 | INFO     | bsutils.logger.bslogger:info:23 - Found 38 dialog(s) for types ['Channel', 'User', 'Chat']
+2026-04-21 07:39:38.655 | INFO     | bsutils.logger.bslogger:info:23 - Dialog 'Irish - Solopicks' found with username: None
+2026-04-21 07:39:38.781 | INFO     | bsutils.logger.bslogger:info:23 - Retrieved 17 message(s) from 'Irish - Solopicks'

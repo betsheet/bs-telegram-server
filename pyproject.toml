@@ -1,0 +1,18 @@
+[project]
+name = "bs-telegram-server"
+version = "0.1.0"
+dependencies = [
+    "bstelegramuser @ git+https://github.com/betsheet/bstelegramuser.git",
+    "bsutils @ git+https://github.com/betsheet/bsutils.git",
+    "fastapi[standard]",
+    "httpx",
+    "python-dotenv",
+    "uvicorn"
+]
+
+[tool.setuptools]
+py-modules = []
+
+[tool.setuptools.packages.find]
+exclude = ["sessions*", "routers*", "util*"]
+

@@ -5,13 +5,15 @@ set -e
 
 VENV_DIR=".venv"
 
-# ── 1. Localizar el ejecutable de Python ─────────────────────────────────────
-if command -v python &>/dev/null; then
-    PYTHON=python
-elif command -v python3 &>/dev/null; then
-    PYTHON=python3
+# ── 1. Localizar el ejecutable de Python 3.13 ────────────────────────────────
+if command -v python3.13 &>/dev/null; then
+    PYTHON=python3.13
+elif [ -x "/opt/homebrew/bin/python3.13" ]; then
+    PYTHON=/opt/homebrew/bin/python3.13
+elif [ -x "/usr/local/bin/python3.13" ]; then
+    PYTHON=/usr/local/bin/python3.13
 else
-    echo "ERROR: python not found in system" >&2
+    echo "ERROR: python3.13 not found. Install it with: brew install python@3.13" >&2
     exit 1
 fi
 
@@ -34,13 +36,22 @@ else
     exit 1
 fi
 
-# ── 4. Instalar dependencias si el paquete no está instalado ──────────────────
-if ! pip show bstelegramserver &>/dev/null; then
+# ── 4. Actualizar pip e instalar dependencias ────────────────────────────────
+PIP="$VENV_DIR/bin/pip"
+if [ -f "$VENV_DIR/Scripts/pip" ]; then
+    PIP="$VENV_DIR/Scripts/pip"
+fi
+
+"$PIP" install --upgrade pip --quiet
+
+if ! "$PIP" show bstelegramserver &>/dev/null; then
+    echo "Upgrading pip..."
+    "$PIP" install --upgrade pip
     echo "Installing dependencies from pyproject.toml..."
-    pip install -e .
+    "$PIP" install -e .
 fi
 
 # ── 5. Arrancar la aplicación ─────────────────────────────────────────────────
 echo "Starting bstelegramserver..."
-python app.py
+"$VENV_DIR/bin/python" app.py
 

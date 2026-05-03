@@ -1,6 +1,11 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "bs-telegram-server"
 version = "0.1.0"
+requires-python = ">=3.13"
 dependencies = [
     "bstelegramuser @ git+https://github.com/betsheet/bstelegramuser.git",
     "bsutils @ git+https://github.com/betsheet/bsutils.git",

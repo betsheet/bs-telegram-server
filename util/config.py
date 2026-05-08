@@ -8,6 +8,7 @@ load_dotenv()
 API_BASE_URL: str = os.environ["API_BASE_URL"]
 CREDENTIALS_ENDPOINT: str = os.environ["GET_TELEGRAM_APP_CREDENTIALS_ENDPOINT"]
 PROCESS_PICK_MESSAGES_ENDPOINT: str = os.environ["PROCESS_TELEGRAM_MESSAGES_ENDPOINT"]
+RUNNING_PORT: int = int(os.environ.get("RUNNING_PORT", 8008))
 
 logger: BSLogger = BSLogger("telegram_server.log")
 

@@ -5,24 +5,19 @@ set -e
 
 VENV_DIR=".venv"
 
-# ── 1. Localizar el ejecutable de Python 3.13 ────────────────────────────────
-if command -v python3.13 &>/dev/null; then
-    PYTHON=python3.13
-elif [ -x "/opt/homebrew/bin/python3.13" ]; then
-    PYTHON=/opt/homebrew/bin/python3.13
-elif [ -x "/usr/local/bin/python3.13" ]; then
-    PYTHON=/usr/local/bin/python3.13
-else
-    echo "ERROR: python3.13 not found. Install it with: brew install python@3.13" >&2
-    exit 1
+# ── 1. Instalar uv si no está disponible ──────────────────────────────────────
+if ! command -v uv &>/dev/null; then
+    echo "uv not found. Installing uv..."
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    export PATH="$HOME/.local/bin:$PATH"
 fi
 
-echo "Using $($PYTHON --version)"
+echo "Using $(uv --version)"
 
 # ── 2. Crear el entorno virtual si no existe ──────────────────────────────────
 if [ ! -d "$VENV_DIR" ]; then
     echo "Creating virtual environment in '$VENV_DIR'..."
-    $PYTHON -m venv "$VENV_DIR"
+    uv venv "$VENV_DIR"
 fi
 
 # ── 3. Activar el entorno virtual ─────────────────────────────────────────────
@@ -36,22 +31,11 @@ else
     exit 1
 fi
 
-# ── 4. Actualizar pip e instalar dependencias ────────────────────────────────
-PIP="$VENV_DIR/bin/pip"
-if [ -f "$VENV_DIR/Scripts/pip" ]; then
-    PIP="$VENV_DIR/Scripts/pip"
-fi
-
-"$PIP" install --upgrade pip --quiet
-
-if ! "$PIP" show bstelegramserver &>/dev/null; then
-    echo "Upgrading pip..."
-    "$PIP" install --upgrade pip
-    echo "Installing dependencies from pyproject.toml..."
-    "$PIP" install -e .
-fi
+# ── 4. Instalar/actualizar dependencias ──────────────────────────────────────
+echo "Installing/updating dependencies from pyproject.toml..."
+uv pip install --upgrade -e .
 
 # ── 5. Arrancar la aplicación ─────────────────────────────────────────────────
-echo "Starting bstelegramserver..."
-"$VENV_DIR/bin/python" app.py
+echo "Starting bs-telegram-server..."
+python app.py
 
